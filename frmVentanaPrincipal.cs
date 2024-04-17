@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Proyecto_Empleados.pry
 {
-    public partial class Form1 : Form
+    public partial class frmVentanaPrincipal : Form
     {
-        public Form1()
+        public frmVentanaPrincipal()
         {
             InitializeComponent();
         }

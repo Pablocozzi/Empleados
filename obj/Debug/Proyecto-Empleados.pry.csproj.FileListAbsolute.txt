@@ -1,0 +1,11 @@
+C:\Users\pablo\OneDrive\Escritorio\facultad\Laboratorio 3\Proyecto-Empleados.pry\bin\Debug\Proyecto-Empleados.pry.exe.config
+C:\Users\pablo\OneDrive\Escritorio\facultad\Laboratorio 3\Proyecto-Empleados.pry\bin\Debug\Proyecto-Empleados.pry.exe
+C:\Users\pablo\OneDrive\Escritorio\facultad\Laboratorio 3\Proyecto-Empleados.pry\bin\Debug\Proyecto-Empleados.pry.pdb
+C:\Users\pablo\OneDrive\Escritorio\facultad\Laboratorio 3\Proyecto-Empleados.pry\obj\Debug\Proyecto-Empleados.pry.csproj.AssemblyReference.cache
+C:\Users\pablo\OneDrive\Escritorio\facultad\Laboratorio 3\Proyecto-Empleados.pry\obj\Debug\Proyecto-Empleados.pry.csproj.SuggestedBindingRedirects.cache
+C:\Users\pablo\OneDrive\Escritorio\facultad\Laboratorio 3\Proyecto-Empleados.pry\obj\Debug\Proyecto_Empleados.pry.frmVentanaPrincipal.resources
+C:\Users\pablo\OneDrive\Escritorio\facultad\Laboratorio 3\Proyecto-Empleados.pry\obj\Debug\Proyecto_Empleados.pry.Properties.Resources.resources
+C:\Users\pablo\OneDrive\Escritorio\facultad\Laboratorio 3\Proyecto-Empleados.pry\obj\Debug\Proyecto-Empleados.pry.csproj.GenerateResource.cache
+C:\Users\pablo\OneDrive\Escritorio\facultad\Laboratorio 3\Proyecto-Empleados.pry\obj\Debug\Proyecto-Empleados.pry.csproj.CoreCompileInputs.cache
+C:\Users\pablo\OneDrive\Escritorio\facultad\Laboratorio 3\Proyecto-Empleados.pry\obj\Debug\Proyecto-Empleados.pry.exe
+C:\Users\pablo\OneDrive\Escritorio\facultad\Laboratorio 3\Proyecto-Empleados.pry\obj\Debug\Proyecto-Empleados.pry.pdb
